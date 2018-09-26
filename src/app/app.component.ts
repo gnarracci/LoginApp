@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'LoginApp on Angular 5 & Database Firebase';
+  title = 'LoginApp on Angular 6 & Database Firebase';
 }
