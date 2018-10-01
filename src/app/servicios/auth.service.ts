@@ -30,7 +30,7 @@ export class AuthService {
   }
 
   getAuth() {
-    return this.afAuth.authState.pipe(map( auth => auth ));
+    return this.afAuth.authState.pipe(map ( auth => auth));
   }
 
   logout() {
